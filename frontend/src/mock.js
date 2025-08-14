@@ -15,13 +15,13 @@ export const mockProducts = [
   },
   {
     id: 2,
-    name: "Gigabyte RTX 4070 Gaming OC",
+    name: "AMD Radeon RX 9070 XT",
     category: "GPU",
     price: 629,
     originalPrice: 699,
     image: "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500&h=500&fit=crop",
-    performance: "165 FPS @ 1440p",
-    specs: ["12GB GDDR6X", "2610 MHz Boost", "3x DisplayPort", "Ray Tracing"],
+    performance: "180 FPS @ 1440p",
+    specs: ["16GB GDDR6", "2800 MHz Boost", "3x DisplayPort", "Ray Tracing"],
     inStock: true,
     rating: 4.8,
     reviews: 1923
