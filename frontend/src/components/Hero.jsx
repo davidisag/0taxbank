@@ -27,7 +27,7 @@ const Hero = () => {
 
           {/* Subheadline */}
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-            Unleash maximum gaming performance with AMD Ryzen 9900X and RTX 4070. 
+            Unleash maximum gaming performance with AMD Ryzen 9900X and RX 9070 XT. 
             <span className="text-green-600 font-semibold"> Get 240+ FPS</span> in your favorite games.
           </p>
 
