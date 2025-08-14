@@ -13,7 +13,7 @@ const Hero = () => {
         <div className="text-center max-w-4xl mx-auto">
           {/* Badge */}
           <Badge className="mb-6 bg-green-100 text-green-800 hover:bg-green-200 px-4 py-2">
-            🔥 LIMITED TIME: Up to $150 OFF Gaming Hardware
+            LIMITED TIME: Up to $150 OFF Gaming Hardware
           </Badge>
 
           {/* Main Headline */}
