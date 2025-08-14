@@ -33,7 +33,7 @@ const Performance = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <Badge className="mb-4 bg-green-100 text-green-800 px-4 py-2">
-            📊 PERFORMANCE DATA
+            PERFORMANCE DATA
           </Badge>
           <h2 className="text-3xl md:text-5xl font-bold text-gray-900 mb-6">
             Benchmark Results That Matter
