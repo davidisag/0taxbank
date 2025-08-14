@@ -41,7 +41,7 @@ export const mockTestimonials = [
     id: 2,
     name: "Sarah Rodriguez",
     title: "Content Creator", 
-    content: "The RTX 4070 from Gigabyte handles 4K editing like a beast. Ray tracing performance is incredible!",
+    content: "The RX 9070 XT handles 4K editing like a beast. Ray tracing performance is incredible for the price!",
     rating: 5,
     avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b742?w=100&h=100&fit=crop&crop=face"
   },
